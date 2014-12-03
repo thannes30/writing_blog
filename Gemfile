@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
+gem 'activeadmin', github: 'activeadmin'
+
+gem 'meta_search'
+
 gem 'debugger', group: :development
 
 gem 'capybara', group: :test
